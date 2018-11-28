@@ -1,0 +1,3 @@
+Bundle-Name: Sample Servlet Filter
+Bundle-SymbolicName: sample-servlet-filter
+Bundle-Version: 1.0.0
