@@ -1,4 +1,4 @@
-package sample.render.filter;
+package com.liferay.sample.render.filter;
 
 import com.liferay.journal.model.JournalArticle;
 import com.liferay.journal.service.JournalArticleLocalServiceUtil;

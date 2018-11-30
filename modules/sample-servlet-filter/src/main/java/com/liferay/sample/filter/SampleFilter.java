@@ -1,4 +1,4 @@
-package unifor.redirecturl.filter;
+package com.liferay.sample.filter;
 
 import java.io.IOException;
 
