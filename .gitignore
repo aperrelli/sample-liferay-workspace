@@ -2,3 +2,6 @@
 build/
 target/
 .idea/
+.project
+.settings/
+.classpath
