@@ -1,0 +1,5 @@
+Bundle-Name: Sample Consumer Rest Service
+Bundle-SymbolicName: sample.consumer.rest.service
+Bundle-Version: 1.0.0
+Export-Package: sample.consumer.rest.*
+Import-Package: !android.*,*
